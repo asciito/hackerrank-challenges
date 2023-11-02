@@ -6,7 +6,7 @@ This repository holds all the challenges I complete from Hacker Rank with differ
 
 ![Python Version](https://img.shields.io/badge/Python-v3.10.4-red?logo=python&logoColor=yellow&labelColor=12263A&color=558B6E)
 ![PHP Version](https://img.shields.io/badge/PHP-v8.2-red?logo=php&logoColor=yellow&labelColor=12263A&color=558B6E)
-![NPM Version](https://img.shields.io/badge/NPM_(JS)-v20.9.0-red?logo=php&logoColor=yellow&labelColor=12263A&color=558B6E)
+![NPM Version](https://img.shields.io/badge/Node.js-v20.9.0-red?logo=Node.js&logoColor=yellow&labelColor=12263A&color=558B6E)
 
 
 
