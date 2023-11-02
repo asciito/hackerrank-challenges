@@ -1,4 +1,4 @@
-# [collections.defaultdict](https://docs.python.org/3/library/collections.html#defaultdict-objects)
+# [collections.defaultdict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 
 > This challenge is for Python only
 

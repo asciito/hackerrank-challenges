@@ -1,4 +1,4 @@
-# [collections.Counter](https://docs.python.org/2/library/collections.html#collections.Counter)
+# [collections.Counter](https://www.hackerrank.com/challenges/collections-counter/problem)
 
 > This challenge is for Python only
 
